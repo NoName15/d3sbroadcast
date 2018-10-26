@@ -24,7 +24,7 @@ client.on('ready', () => {
   
 client.on('ready', () => {
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`! Legends | By: RO7`,"http://twitch.tv/S-F")
+client.user.setGame(`Loyalty Server | By: RO7`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
